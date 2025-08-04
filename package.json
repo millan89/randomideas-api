@@ -1,0 +1,15 @@
+{
+  "name": "randomideas-api-backend",
+  "version": "1.0.0",
+  "description": "Idea sharing app",
+  "license": "MIT",
+  "author": "",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
